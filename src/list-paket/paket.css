@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;1,600&display=swap');
+
+body{
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+.btn-1{
+  position: absolute;
+  width: 204px;
+  height: 56px;
+  left: 158px;
+  top: 428px;
+  padding-top: 15px;
+
+
+  background: #00CC89;
+  border-color: #00CC89;
+  border-radius: 50px;
+}
+
+.row-card{
+  margin-top: 55px;
+}

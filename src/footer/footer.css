@@ -1,0 +1,27 @@
+
+
+.container-footer{
+    background-color: #ffff;
+    width: auto;
+    height: 328px;
+}
+
+.logo-footer{
+    width: 233px;
+    height: 46px;
+}
+
+.footer-content{
+    position: absolute;
+    width: 399px;
+}
+
+.logo-footer{
+    position: absolute;
+    left: 43px;
+}
+
+.text-footer{
+    text-align: left;
+    font-size: 16px;
+}

@@ -1,0 +1,18 @@
+
+.container-list-group{
+
+    position: absolute;
+    width: 746px;
+    height: 144px;
+    left: calc(50% - 746px/2);
+    margin-top: 50px;
+
+    background-color: #00CC89;
+
+}
+
+.list-group-item{
+    background-color: #00CC89;
+    color: #FFFF;
+}
+

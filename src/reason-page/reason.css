@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;1,600&display=swap');
+
+body{
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+
+.text-header{
+    padding-top: 50px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 50px;
+    /* identical to box height, or 140% */
+
+    text-align: center;
+
+
+    color: #FFFFFF;
+}
+
+.row-card{
+    margin-top: 55px;
+}
